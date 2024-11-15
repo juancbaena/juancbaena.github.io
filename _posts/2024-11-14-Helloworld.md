@@ -1,9 +1,9 @@
 ---
 title: Hello World!
-author: baena
-date: 2024-11-14 21:17:00 +0918
+date: 2024-11-14 21:17:00 -0700
 categories: [Blog, prueba]
 tags: [hello]     # TAG names should always be lowercase
+author: baena
 ---
 
 ## Hello World
