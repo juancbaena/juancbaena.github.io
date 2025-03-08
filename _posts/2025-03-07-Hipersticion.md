@@ -8,7 +8,8 @@ author: baena
 
 # La I.A. como máquina de hiperstición
 
-<!-- <<"Hiperstición" me parece un neologismo de lo más intrigante. Pensábamos que lo estábamos creando, pero todo el tiempo los Nma nos estaban diciendo qué escribir; y a través de ellos… >>. CCRU escritos p. 89 -->
+<<"Hiperstición" me parece un neologismo de lo más intrigante. Pensábamos que lo estábamos creando, pero todo el tiempo los Nma nos estaban diciendo qué escribir; y a través de ellos… >>. CCRU escritos p. 89
+
 
 La Unidad de Investigación Cibernética (CCRU por sus siglas en inglés), fue un grupo de académicos, artistas y pensadores que buscaban entender los cambios culturales que la tecnología estaba produciendo, reunidos entorno a la dupla: Nick Land y Sadie Plant, buscaban romper el academicismo y ampliar la reflexión hacia ámbitos no tradicionales como la música electrónica y la estética ciberpunk. Uno de los conceptos que este colectivo crea y desarrolla es la hiperstición.
 
